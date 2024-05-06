@@ -1,0 +1,23 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.ide
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.log
+.DS_Store
+
